@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![Camel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatOneCamel)](https://github.com/anuraghazra/github-readme-stats)
+[![My stats](https://github-readme-stats.vercel.app/api?username=ThatOneCamel&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatOneCamel&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ThatOneCamel/ThatOneCamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
