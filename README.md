@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-[![My stats](https://github-readme-stats.vercel.app/api?username=ThatOneCamel&count_private=true&theme=tokyonight&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![My stats](https://github-readme-stats.vercel.app/api?username=ThatOneCamel&count_private=true&theme=tokyonight&border_radius=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatOneCamel&count_private=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
